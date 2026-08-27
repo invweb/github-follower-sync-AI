@@ -27,3 +27,4 @@ Initial code was generated with Ollama using the Gemma 4:12b model, then review
    ```bash
    git clone https://github.com/YOUR_USERNAME/github-follower-sync.git
    cd github-follower-sync
+   python3 mut_subs.py
