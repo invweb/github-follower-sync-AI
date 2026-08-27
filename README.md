@@ -8,7 +8,6 @@ Initial code was generated with Ollama using the Gemma 4:12b model, then review
 ## Features
 
 - Fetches your GitHub followers list.
-- Fetches your GitHub following list.
 - Compares both lists and identifies non-mutual follows (you follow them, but they don’t follow you).
 - Optionally unfollows non-mutual users (configurable via CLI flag).
 - Dry-run mode to preview actions without making changes.
