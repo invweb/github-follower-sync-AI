@@ -21,8 +21,9 @@ Initial code was generated with Ollama using the Gemma 4:12b model, then review
 
 ## Installation
 
-1. Clone the repository:
-
+1. Clone the repository.
+2. Go to the folder.
+3. Run the script.
    ```bash
    git clone git clone https://github.com/invweb/github-follower-sync-AI.git
    cd github-follower-sync-AI
