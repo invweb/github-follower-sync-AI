@@ -29,4 +29,4 @@ Initial code was generated with Ollama using the Gemma 4:12b model, then review
    cd github-follower-sync-AI
    python3 mut_subs.py
 
-!!!Ask AI for any questions.!!!
+!!!Ask AI for any questions!!!
