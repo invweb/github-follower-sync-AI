@@ -27,6 +27,10 @@ Initial code was generated with Ollama using the Gemma 4:12b model, then review
    ```bash
    git clone git clone https://github.com/invweb/github-follower-sync-AI.git
    cd github-follower-sync-AI
+   python3 -m venv .venv
+   source .venv/bin/activate
+   install requests 
+   export GITHUB_TOKEN='ghp_***'
    python3 mut_subs.py
 
 !!!Ask AI for any questions!!!
